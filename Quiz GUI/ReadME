@@ -1,0 +1,7 @@
+This is a basic Quiz GUI made using Tkinter library of Python.
+
+refer to the demo video attached or read below.
+
+fistly run quizTeacher.py to take question from the teacher.
+
+then run quizStudent.py to ask the student to attempt the quiz.
